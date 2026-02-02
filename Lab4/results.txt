@@ -1,0 +1,29 @@
+O3 optimization results:
+Java 128x128:
+8 ms
+JNI 128x128:
+2 ms
+Java 1024x1024:
+5138 ms
+JNI 1024x1024:
+4319 ms
+
+O0 optimization results:
+Java 128x128:
+8 ms
+JNI 128x128:
+8 ms
+Java 1024x1024:
+5001 ms
+JNI 1024x1024:
+16365 ms
+
+O2 optimization results:
+Java 128x128:
+8 ms
+JNI 128x128:
+2 ms
+Java 1024x1024:
+5056 ms
+JNI 1024x1024:
+4368 ms
