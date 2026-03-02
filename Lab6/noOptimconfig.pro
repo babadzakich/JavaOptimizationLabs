@@ -1,5 +1,5 @@
 -injars app.jar
--outjars app_nothing.jar
+-outjars app_all.jar
 -libraryjars <java.home>/jmods/java.base.jmod
 
 -dontshrink

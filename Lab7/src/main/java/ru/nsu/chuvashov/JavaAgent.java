@@ -14,7 +14,7 @@ public class JavaAgent {
 
         try {
             for (Class<?> clazz : inst.getAllLoadedClasses()) {
-                if (clazz.getName().equals("ru.nsu.chuvashov.TargetClass")) {
+                if (clazz.getName().equals("ru.nsu.chuvashov.TargetApp")) {
                     inst.retransformClasses(clazz);
                     System.out.println("Transformed class: " + clazz.getName());
                 }

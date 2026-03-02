@@ -5,11 +5,11 @@ public class Main {
         MyJNIClassTest testClass = new MyJNIClassTest();
 
 //        testClass.devourMemoryAndKMS();
-//        testClass.brickInside();
+       testClass.brickInside();
         testClass.allocate1kb();
         testClass.stringLength();
-        testClass.callNigger();
-        testClass.changeCottonField();
+        testClass.callPrikol();
+        testClass.changeField();
         testClass.allocSwag();
     }
 }
@@ -42,20 +42,20 @@ class MyJNIClassTest {
     }
 
     void stringLength() {
-        String psalm = "Turn my lights on";
-        if (psalm.length() != myJNIClass.stringLength(psalm)) {
+        String str = "Turn my lights on";
+        if (str.length() != myJNIClass.stringLength(str)) {
             System.err.println("Wow, jni doesnt work");
         } else {
-            System.out.println("JNI WORKS " + psalm.length());
+            System.out.println("JNI WORKS " + str.length());
         }
     }
 
-    void callNigger() {
+    void callPrikol() {
         SimpleBean bean = new SimpleBean(42, "Epstein");
-        myJNIClass.callNigger(bean);
+        myJNIClass.callPrikol(bean);
     }
 
-    void changeCottonField() {
+    void changeField() {
         SimpleBean bean = new SimpleBean(1487, "Adolf");
         bean.printId();
         myJNIClass.changeCottonField(bean, 322);

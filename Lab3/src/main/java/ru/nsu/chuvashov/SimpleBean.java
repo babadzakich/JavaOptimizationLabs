@@ -16,7 +16,7 @@ class SimpleBean {
         this.name = name;
     }
 
-    public void sayShit() {
+    public void sayStuff() {
         System.out.println("Sometimes i dream about committing mass murder...");
     }
 

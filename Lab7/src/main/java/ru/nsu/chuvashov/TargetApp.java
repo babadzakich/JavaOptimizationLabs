@@ -7,7 +7,7 @@ public class TargetApp {
     public String processData(String input) {
         System.out.println("   (Inside Method) Processing: " + input);
 
-        if (new Random().nextInt(10) < 7) { // 70% шанс ошибки
+        if (new Random().nextInt(10) < 7) {
             throw new RuntimeException("Something went wrong!");
         }
         return "Processed-" + input;

@@ -41,10 +41,10 @@ JNIEXPORT jint JNICALL Java_ru_nsu_chuvashov_MyJNIClass_stringLength
 
 /*
  * Class:     ru_nsu_chuvashov_MyJNIClass
- * Method:    callNigger
+ * Method:    callPrikol
  * Signature: (Lru/nsu/chuvashov/SimpleBean;)V
  */
-JNIEXPORT void JNICALL Java_ru_nsu_chuvashov_MyJNIClass_callNigger
+JNIEXPORT void JNICALL Java_ru_nsu_chuvashov_MyJNIClass_callPrikol
   (JNIEnv *, jobject, jobject);
 
 /*

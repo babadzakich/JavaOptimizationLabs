@@ -23,11 +23,14 @@ public class Main {
         }
         System.out.println("Before sorting: " + list.stream().map(CompareClass::getValue).toList());
         bubbleSort(list);
+        new Ghost1().usedMethod();
         System.out.println("After sorting: " + list.stream().map(CompareClass::getValue).toList());
     }
 }
 class Ghost1 {
-    public void usedMethod() {}
+    public void usedMethod() {
+        System.out.println("This method is used and should be transformed.");
+    }
     public void unused1() {}
     public void unused2() {}
     public void unused3() {}

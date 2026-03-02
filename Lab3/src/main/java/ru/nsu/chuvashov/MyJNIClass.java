@@ -13,7 +13,7 @@ public class MyJNIClass {
 
     public native int stringLength(String str);
 
-    public native void callNigger(SimpleBean bean);
+    public native void callPrikol(SimpleBean bean);
 
     public native void changeCottonField(SimpleBean bean, int newStuff);
 

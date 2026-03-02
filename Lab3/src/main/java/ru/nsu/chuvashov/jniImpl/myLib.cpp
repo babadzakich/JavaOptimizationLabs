@@ -150,13 +150,13 @@ JNIEXPORT jint JNICALL Java_ru_nsu_chuvashov_MyJNIClass_stringLength
  * Method:    callNigger
  * Signature: (Lru/nsu/chuvashov/SimpleBean;)V
  */
-JNIEXPORT void JNICALL Java_ru_nsu_chuvashov_MyJNIClass_callNigger
+JNIEXPORT void JNICALL Java_ru_nsu_chuvashov_MyJNIClass_callPrikol
   (JNIEnv *env, jobject thisObj, jobject simpleBean) {
     if (simpleBean == nullptr) {
         return;
     }
     jclass simpleBeanClass = env->GetObjectClass(simpleBean);
-    jmethodID getValueMethod = env->GetMethodID(simpleBeanClass, "sayShit", "()V");
+    jmethodID getValueMethod = env->GetMethodID(simpleBeanClass, "sayStuff", "()V");
     if (getValueMethod != nullptr) {
         env->CallVoidMethod(simpleBean, getValueMethod);
     }

@@ -1,4 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PropertiesComponent">{}</component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9e789486-db38-40d6-929a-cb7ad618cec1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/MyJNIClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/MyJNIClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/MyJNIClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/MyJNIClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/MyJNIClassTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/MyJNIClassTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/SimpleBean.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/SimpleBean.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/SimpleBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/SimpleBean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/jniImpl/libmyjni.so" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/jniImpl/libmyjni.so" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/jniImpl/myLib.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/jniImpl/myLib.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/jniImpl/recompile.sh" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/jniImpl/recompile.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/jniImpl/ru_nsu_chuvashov_MyJNIClass.h" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab3/src/main/java/ru/nsu/chuvashov/jniImpl/ru_nsu_chuvashov_MyJNIClass.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab4/src/main/java/ru/nsu/chuvashov/JNIMatrixMul.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab4/src/main/java/ru/nsu/chuvashov/JNIMatrixMul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab5/src/main/java/ru/nsu/chuvashov/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab5/src/main/java/ru/nsu/chuvashov/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/SaveClassOptimconfig.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/SaveClassOptimconfig.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/SaveSignatureconfig.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/SaveSignatureconfig.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/noOptimconfig.pro" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/noOptimconfig.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Ghost1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Ghost1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Ghost2.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Ghost2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Ghost3.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Ghost3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Ghost4.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Ghost4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Ghost5.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Ghost5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lab6/src/main/java/ru/nsu/chuvashov/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/myagent.jar" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/myagent.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/chuvashov/JavaAgent.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/chuvashov/JavaAgent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/chuvashov/JavaAgent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/chuvashov/JavaAgent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/chuvashov/RetryTransformer.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/chuvashov/RetryTransformer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/chuvashov/RetryTransformer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/chuvashov/RetryTransformer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/nsu/chuvashov/TargetApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/nsu/chuvashov/TargetApp.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_/home/kubicl/Рабочий стол/NSU/JavaOptimizationLabs/Lab7" value="39jjqiZ0aJCuIBVO1EVv1dc4Tre" />
+    </persistenceIdMap>
+  </component>
+  <component name="CopilotUserSelectedModel">
+    <selectedModels>
+      <entry key="chat-panel" value="Claude Sonnet 4.5" />
+      <entry key="agent-panel" value="Claude Sonnet 4.5" />
+    </selectedModels>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleScriptDefinitionsStorage" workingDir="$PROJECT_DIR$" gradleHome="$USER_HOME$/.gradle/wrapper/dists/gradle-9.0.0-bin/d6wjpkvcgsg3oed0qlfss3wgl/gradle-9.0.0" javaHome="/usr/lib/jvm/java-21-openjdk" gradleVersion="9.0.0" />
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="39jjqiZ0aJCuIBVO1EVv1dc4Tre" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/kubicl/Рабочий стол/NSU/JavaOptimizationLabs/Lab7",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="Babashka" factoryName="BabashkaLocalRepl" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="bbPath" value="" />
+      <setting name="parameters" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <setting name="workingDir" value="" />
+      <setting name="focusEditor" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="displayName" value="" />
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="SOCKET" />
+      <setting name="configType" value="SPECIFY" />
+      <setting name="replPortFileType" value="STANDARD" />
+      <setting name="customPortFile" value="" />
+      <setting name="fixLineNumbers" value="false" />
+      <setting name="useHeartbeat" value="true" />
+      <setting name="focusEditor" value="false" />
+      <setting name="urlFile" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.28238.7" />
+        <option value="bundled-js-predefined-d6986cc7102b-a71380e98a7c-JavaScript-IU-252.28238.7" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e789486-db38-40d6-929a-cb7ad618cec1" name="Changes" comment="" />
+      <created>1771216567302</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1771216567302</updated>
+      <workItem from="1771216569395" duration="2044000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
 </project>
